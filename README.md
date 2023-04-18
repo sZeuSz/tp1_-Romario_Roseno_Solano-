@@ -65,6 +65,10 @@ username: postgres
 password: postgres
 ```
 
+## Para usar os scripts
+
+Após criar seu banco de dados, preencha o arquivo .env.example com as respectivas informações e renomeie o arquivo para '.env'
+
 ## Usando Python
 
 Para instalar bibliotecas necessarias para o trabalho, use o pip [DEPOIS de ativar o ambiente](#python) virtual.
